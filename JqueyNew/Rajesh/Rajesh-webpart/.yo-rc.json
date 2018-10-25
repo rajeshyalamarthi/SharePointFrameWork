@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "rajesh-webpart",
+    "libraryId": "5c10cbd0-b108-47c2-9638-d2f4eb0119c8",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

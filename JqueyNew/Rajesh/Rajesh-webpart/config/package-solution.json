@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "rajesh-webpart-client-side-solution",
+    "id": "5c10cbd0-b108-47c2-9638-d2f4eb0119c8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/rajesh-webpart.sppkg"
+  }
+}
